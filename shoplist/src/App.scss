@@ -1,0 +1,47 @@
+.header {
+    margin:50px;
+    padding-left:50px;
+}
+
+.header input{
+    width: 200px;
+    margin-inline:175px;
+}
+
+.listy{
+    margin:50px;
+    padding-left:200px;
+}
+
+.P{
+    width: 200px;
+    padding-left:750px;
+    background-color: yellowgreen;
+    border-radius: 15px;
+}
+
+.listy{
+    display: flex; 
+}
+
+.listy ul{
+    width: 250px;
+    margin-inline:75px;
+}
+
+.druga{
+    background-color: bisque;
+    border-radius: 15px;
+    border-color: blanchedalmond;
+} 
+
+.piersza{
+    background-color: bisque;
+    border-radius: 15px;
+    border-color: blanchedalmond;
+}
+
+.header {
+    background-color: wheat;
+    border-radius: 15px;    
+}
