@@ -1,0 +1,1 @@
+['SMARTFON', 'LAPTOP', 'TABLET', 'MONITOR'] 
